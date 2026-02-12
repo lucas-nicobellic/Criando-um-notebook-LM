@@ -2,7 +2,7 @@
 
 <p>
 💫OBJEIVO:
-Criar um chat com um professor que ensine coisas básicas de Python até o nível avançado.<br>
+Criar um chat como um professor que ensine coisas básicas de Python até o nível avançado.<br>
 
 💡FONTE DE VIDEOS:<br>
 https://www.youtube.com/watch?v=g_R_Asf6Co0&list=PLpdAy0tYrnKwgyv8Rc867jA_huQfcpF29
